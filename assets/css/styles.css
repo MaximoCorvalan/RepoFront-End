@@ -1,0 +1,33 @@
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+}
+header {
+ background-color: aliceblue;
+ margin-top: 0cm;
+    font-size: 1.5cm;
+  
+    
+}
+#texto{
+    font-size: large;
+    display: inline-block;
+    vertical-align: top;
+    color: aliceblue;
+    font-size: 25px;
+  }
+  h2 {
+    color: aliceblue;
+  }
+  h3 {
+    font-size: x-large;
+    color: aliceblue;
+
+  }
+  nav {
+    color: aliceblue;
+    font-size: larger;
+
+  }
+  
